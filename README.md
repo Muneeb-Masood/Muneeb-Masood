@@ -17,8 +17,11 @@ I’m a passionate Software Engineering and Technology student at NED University
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb-Masood&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneeb-Masood&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-Masood&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb-Masood&langs_count=8&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 ---
 
 ## 🛠️ Skills
