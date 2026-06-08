@@ -3,7 +3,7 @@
 # Hi, I'm Muneeb Masood
 ---
 
-## 🌟 Flutter Developer | Web Developer | Designer
+## 🌟 Software Engineer | Mobile Applications Developer
 
 I’m a passionate Software Engineering and Technology student at NED University. I have been honing my skills in Flutter and Dart for over a year. I started with web development, picking up HTML, CSS, and JavaScript, and have since expanded my expertise to include Node.js and React.js. With a strong affinity for mobile app development, I’ve become proficient in Flutter and am always eager to push boundaries in both frontend and backend development. My recent experience includes projects in healthcare and e-commerce, building versatile tools that provide real-world value and intuitive user experiences.
 
